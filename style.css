@@ -1,0 +1,18 @@
+
+.boxes {
+    box-sizing: border-box;
+    width: 100px;
+    height: 20px;
+    background-color: coral;
+    border: 1px solid black;
+
+}
+
+.boxes-4 {
+    box-sizing: border-box;
+    width: 100px;
+    height: 20px;
+    background-color: cadetblue;
+    border: 1px solid black;
+
+}
